@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "basic node app in  docker ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsdoc/ms-docker.git"
+  },
+  "keywords": [],
+  "author": "rahul singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsdoc/ms-docker/issues"
+  },
+  "homepage": "https://github.com/rsdoc/ms-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
